@@ -2,4 +2,4 @@ Para poder correr correctamente todos estos programas descargalos y adjuntalos a
 
 Posteriormente en el dashC asegurate de poner la ruta de donde esta guardado el archivo en la terminal y luego escribir run streamlit como esta indicado
 
-[https://youtu.be/RtQIuBY3__A] (Ciudad Activa)
+[https://youtu.be/RtQIuBY3__A](Ciudad Activa)
