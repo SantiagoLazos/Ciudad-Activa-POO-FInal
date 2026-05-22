@@ -1,0 +1,102 @@
+id,title,description,location,image_path,type_str,frequency,time_hours,priority
+dc4e9e44,Calles Inundadas,Hace un mes que hay muchas baches en mi calle y cuando llueve se llena toda la calle de agua,Andador U.A de Chiapas 1434,C:/Users/corec/OneDrive/Imágenes/Messi fondo van gogh.jpg,bache,0,0.0,28.0
+a62e7144,Lámpara apagada en parque central,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Privada Laureles #12, Col. Anzures",NaN,alumbrado,14,100.9,58.47
+4b12515b,Alcantarilla abierta sin señalización,La situación genera malestar entre los comerciantes y residentes del área.,"Blvd. Héroes del 5 de Mayo #1200, Zona Norte",NaN,emergencia,27,23.4,51.12
+45cdb629,Hoyo en acceso a mercado,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Av. Juárez #245, Centro",/images/7747fba6.jpg,bache,12,515.7,186.31
+81938247,Basura en área verde municipal,Se han registrado accidentes menores relacionados con esta incidencia.,"Blvd. Municipio Libre #600, Col. Empleado Federal",NaN,basura,0,546.5,183.95
+67f0c04e,Residuos en canal pluvial,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Av. 11 Poniente #560, Col. La Paz",NaN,basura,21,74.0,48.5
+46835d82,Bolsas de basura en banqueta,Se han registrado accidentes menores relacionados con esta incidencia.,"Av. Diagonal Defensores #300, Col. Insurgentes",/images/c6472d5a.jpg,basura,2,525.5,178.25
+00198d7c,Pintura de carril borrada,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Blvd. Héroes del 5 de Mayo #1200, Zona Norte",/images/6f2360d0.jpg,otro,18,597.3,200.59
+c9dee03d,Rampas para discapacitados bloqueadas,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Av. Xonaca #890, Col. Xonaca",/images/bb6b83b3.jpg,otro,2,476.3,159.49
+409beb0d,Vandalismo en parada de autobús,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Blvd. Norte #450, Fracc. Las Américas",/images/ee2a664f.jpg,otro,24,200.5,83.35
+b945efdb,Bolsas de basura en banqueta,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Av. Vicente Suárez #234, Col. Huexotitla",/images/8a827d4d.jpg,basura,17,505.5,176.75
+977cf38c,Fractura en carpeta asfáltica,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Calle 14 Oriente #78, Col. El Carmen",NaN,bache,15,118.1,67.93
+c93b2c03,Señalética de calle ilegible,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Fresno #15, Col. El Vergel",/images/e4fdba31.jpg,otro,20,606.9,204.07
+c22533af,Bache profundo en carril derecho,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Calle Independencia #67, Col. La Libertad",/images/89c885e3.jpg,bache,17,48.1,47.53
+7163c752,Alumbrado sin funcionar en glorieta,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Independencia #67, Col. La Libertad",/images/79ef51ae.jpg,alumbrado,31,285.2,118.86
+e26ee7bf,Alumbrado fuera de servicio 3 semanas,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Av. 11 Poniente #560, Col. La Paz",/images/8e9413f4.jpg,alumbrado,35,388.3,150.99
+1b20f1d6,Colchones y muebles abandonados,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Blvd. Atlixcáyotl Km 8, Zona Angelópolis",NaN,basura,14,718.1,239.63
+b5e2f535,Foco fundido en estacionamiento público,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle 5 de Mayo #89, Col. Centro",/images/9005837b.jpg,alumbrado,9,451.9,162.27
+28ee3613,Acumulación de escombros en calle,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Blvd. Atlixcáyotl Km 8, Zona Angelópolis",/images/1958d89c.jpg,basura,38,717.2,246.56
+06ada7e9,Vandalismo en parada de autobús,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Av. Juárez #245, Centro",/images/3cdd266c.jpg,otro,34,540.8,188.44
+2061f849,Residuos en canal pluvial,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Calle Tecnológico #100, Col. San Manuel",/images/5c70b498.jpg,basura,29,2.8,29.54
+c5be37e1,Alcantarilla abierta sin señalización,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Calle 14 Oriente #78, Col. El Carmen",NaN,emergencia,6,626.8,225.84
+8c2afceb,Poste inclinado con riesgo de caída,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Av. Xonaca #890, Col. Xonaca",/images/b55d87e3.jpg,alumbrado,23,549.1,195.63
+5f63a50c,Alcantarilla abierta sin señalización,La situación genera malestar entre los comerciantes y residentes del área.,"Av. Juárez #245, Centro",NaN,emergencia,20,352.1,147.63
+30689078,Acumulación frente a mercado,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Av. 20 de Noviembre #300, Centro Histórico",/images/02166d9a.jpg,basura,3,173.8,73.04
+bed7b57f,Bache en carril de bicicletas,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Orquídeas #23, Col. Jardines",NaN,bache,34,551.5,203.65
+1e345c59,Falla de alumbrado en toda la cuadra,Se han registrado accidentes menores relacionados con esta incidencia.,"Calle 14 Oriente #78, Col. El Carmen",/images/6044037b.jpg,alumbrado,33,628.2,222.36
+a8d50392,Bache sin señalización,Se han registrado accidentes menores relacionados con esta incidencia.,"Av. Xonaca #890, Col. Xonaca",/images/28add5f6.jpg,bache,25,716.5,250.45
+1b7022f8,Residuos tóxicos sin identificar,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Av. Margaritas #45, Fracc. Jardines de San Manuel",NaN,basura,15,162.2,73.16
+5ed30cfa,Luminaria parpadeante en avenida,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Blvd. Municipio Libre #600, Col. Empleado Federal",/images/9e3d3aa4.jpg,alumbrado,0,51.6,39.48
+8f2ebbe7,Bache en retorno vehicular,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Calle 5 de Mayo #89, Col. Centro",NaN,bache,4,370.4,140.32
+3febe3ea,Falla de alumbrado en toda la cuadra,La situación genera malestar entre los comerciantes y residentes del área.,"Av. 11 Poniente #560, Col. La Paz",/images/b60920d1.jpg,alumbrado,36,340.6,136.98
+b5755823,Juego infantil roto en parque,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Reforma #34, Col. Analco",/images/60bd5ad5.jpg,otro,27,255.4,100.72
+f722954b,Señal de tránsito dañada,El problema lleva semanas sin atención y representa un riesgo para los transeúntes.,"Calle Reforma #34, Col. Analco",/images/f002fc74.jpg,otro,25,524.4,180.82
+a057b4d2,Deterioro severo del asfalto,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Av. Xonaca #890, Col. Xonaca",NaN,bache,28,101.4,66.82
+a5ab006a,Luminaria vandalizad sin reemplazar,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Blvd. Héroes del 5 de Mayo #1200, Zona Norte",/images/95bd31c6.jpg,alumbrado,35,70.9,55.77
+28337a9f,Lámpara apagada en parque central,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Blvd. Héroes del 5 de Mayo #1200, Zona Norte",/images/26d65531.jpg,alumbrado,10,292.9,114.87
+4639ec51,Jardín sin riego ni mantenimiento,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Calle 5 de Mayo #89, Col. Centro",NaN,otro,24,2.1,23.83
+aaf39f1d,Mal estado de cancha deportiva municipal,Se han registrado accidentes menores relacionados con esta incidencia.,"Av. Margaritas #45, Fracc. Jardines de San Manuel",/images/5aa1fc5b.jpg,otro,27,501.7,174.61
+fcd3bd7c,Fuga de aguas negras en colonia,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Calle Orquídeas #23, Col. Jardines",/images/fd841b85.jpg,emergencia,12,214.0,103.8
+1572d852,Falla de alumbrado en toda la cuadra,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Calle 5 de Mayo #89, Col. Centro",/images/c249d5ee.jpg,alumbrado,3,36.6,35.88
+83b02bbf,Malla perimetral rota en parque,El problema lleva semanas sin atención y representa un riesgo para los transeúntes.,"Calle 14 Oriente #78, Col. El Carmen",NaN,otro,32,58.1,43.03
+0252aa0d,Luz apagada frente a preparatoria,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Blvd. Norte #450, Fracc. Las Américas",/images/e23c06d1.jpg,alumbrado,7,678.0,229.5
+15def0cc,Lámpara apagada en parque central,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Av. Diagonal Defensores #300, Col. Insurgentes",/images/159490d6.jpg,alumbrado,26,473.5,173.85
+c23964d9,Residuos en canal pluvial,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Av. Xonaca #890, Col. Xonaca",NaN,basura,15,191.6,81.98
+ca7a3cfe,Zona oscura en paso peatonal,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Independencia #67, Col. La Libertad",/images/61be391c.jpg,alumbrado,0,330.2,123.06
+459c1094,Graffiti en monumento histórico,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Fresno #15, Col. El Vergel",/images/3ba8cbb7.jpg,otro,32,191.3,82.99
+87764a2e,Jardín sin riego ni mantenimiento,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Blvd. Norte #450, Fracc. Las Américas",/images/bc8c96d6.jpg,otro,18,114.0,55.6
+37cf5eba,Poste a punto de caer sobre auto,El problema lleva semanas sin atención y representa un riesgo para los transeúntes.,"Av. Palmas #780, Col. Las Palmas",/images/b812b54f.jpg,emergencia,35,215.9,111.27
+8793a108,Cancha sin mantenimiento,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Privada Laureles #12, Col. Anzures",NaN,otro,6,534.7,178.21
+3e905286,Contenedor desbordado sin recolección,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Independencia #67, Col. La Libertad",/images/7afd1d59.jpg,basura,40,614.2,216.26
+57affe8f,Desecho de construcción ilegal,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle 5 de Mayo #89, Col. Centro",NaN,basura,40,305.3,123.59
+8cf053cb,Socavón en vialidad principal,Se han registrado accidentes menores relacionados con esta incidencia.,"Av. 11 Poniente #560, Col. La Paz",/images/845dee50.jpg,bache,10,533.8,191.14
+f006af16,Tiradero clandestino en baldío,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Reforma #34, Col. Analco",/images/3d348082.jpg,basura,9,393.1,140.63
+8c431359,Sin luz en callejón,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Calle Tecnológico #100, Col. San Manuel",/images/24dee675.jpg,alumbrado,2,222.3,91.29
+eaea05c7,Drenaje colapsado con riesgo sanitario,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Calle 5 de Mayo #89, Col. Centro",/images/9ab818b2.jpg,emergencia,13,491.2,187.26
+99e52349,Residuos tóxicos sin identificar,La situación genera malestar entre los comerciantes y residentes del área.,"Calle Tecnológico #100, Col. San Manuel",NaN,basura,9,666.6,222.68
+2c25a1b2,Socavón en vialidad principal,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Calle 14 Oriente #78, Col. El Carmen",/images/27d0cc51.jpg,bache,1,129.5,67.15
+c89caa99,Derrumbe de barda sobre banqueta,Se han registrado accidentes menores relacionados con esta incidencia.,"Blvd. Norte #450, Fracc. Las Américas",NaN,emergencia,10,567.0,209.1
+f405e36f,Vandalismo en parada de autobús,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Orquídeas #23, Col. Jardines",/images/bbda1945.jpg,otro,12,588.0,196.0
+a15e8aab,Montículo de cascajo sin retirar,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Blvd. Norte #450, Fracc. Las Américas",NaN,basura,1,475.4,162.92
+b2cc7eea,Acumulación de escombros en calle,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Calle Privada Laureles #12, Col. Anzures",/images/cbbef328.jpg,basura,32,288.1,116.03
+df868de4,Lámpara apagada en parque central,Se han registrado accidentes menores relacionados con esta incidencia.,"Calle Reforma #34, Col. Analco",/images/76df9a48.jpg,alumbrado,11,418.2,152.76
+c07f27ac,Hoyo en acceso a mercado,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Calle Tecnológico #100, Col. San Manuel",/images/a46fef9c.jpg,bache,20,314.5,128.35
+f690f0aa,Bache en retorno vehicular,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Blvd. Municipio Libre #600, Col. Empleado Federal",/images/0986549d.jpg,bache,16,32.4,42.52
+37b55fec,Foco fundido en estacionamiento público,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Fresno #15, Col. El Vergel",/images/f59de78c.jpg,alumbrado,23,310.8,124.14
+d9bb26e2,Rampas para discapacitados bloqueadas,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Independencia #67, Col. La Libertad",/images/901a389d.jpg,otro,19,365.4,131.32
+117b1970,Basura en acceso a colonia,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Av. 20 de Noviembre #300, Centro Histórico",/images/5739a9bf.jpg,basura,8,138.5,63.95
+6521ea90,Basura en acceso a colonia,La situación genera malestar entre los comerciantes y residentes del área.,"Calle 14 Oriente #78, Col. El Carmen",/images/668301af.jpg,basura,36,217.0,95.9
+222cd3fa,Bache con agua estancada,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Av. Xonaca #890, Col. Xonaca",NaN,bache,37,437.0,170.2
+e557d1cf,Desperdicios en arroyo,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Av. Xonaca #890, Col. Xonaca",/images/b16ec407.jpg,basura,30,571.6,200.48
+8986e1e2,Fuga de aguas negras en colonia,Se han registrado accidentes menores relacionados con esta incidencia.,"Blvd. Héroes del 5 de Mayo #1200, Zona Norte",/images/d2bbb694.jpg,emergencia,32,478.1,189.03
+5253cd1d,Socavón en vialidad principal,Se han registrado accidentes menores relacionados con esta incidencia.,"Blvd. Norte #450, Fracc. Las Américas",NaN,bache,14,580.8,206.44
+8262f2ef,Daño en pavimento por raíces,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Av. Diagonal Defensores #300, Col. Insurgentes",/images/1d80bc6c.jpg,bache,29,298.7,126.31
+46907daf,Bache en carril de bicicletas,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Blvd. Atlixcáyotl Km 8, Zona Angelópolis",/images/c725474a.jpg,bache,25,176.0,88.3
+dedd6e31,Socavón en vialidad principal,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Calle Reforma #34, Col. Analco",/images/70b814e5.jpg,bache,14,127.1,70.33
+4bc5a8a3,Lámpara apagada en parque central,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle Fresno #15, Col. El Vergel",/images/68790e51.jpg,alumbrado,7,328.9,124.77
+47ba316d,Alcantarilla abierta sin señalización,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Av. Diagonal Defensores #300, Col. Insurgentes",/images/c6bbf770.jpg,emergencia,28,441.3,176.79
+e38ff8b3,Luminaria vandalizad sin reemplazar,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Calle Fresno #15, Col. El Vergel",/images/f44eba4c.jpg,alumbrado,10,535.6,187.68
+dc499426,Contenedor desbordado sin recolección,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Calle Privada Laureles #12, Col. Anzures",NaN,basura,31,451.4,164.72
+c4321ee8,Bache con agua estancada,Se han registrado accidentes menores relacionados con esta incidencia.,"Blvd. Norte #450, Fracc. Las Américas",/images/d14da9e3.jpg,bache,21,230.5,103.45
+b58ef91b,Deterioro severo del asfalto,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Blvd. Atlixcáyotl Km 8, Zona Angelópolis",/images/ba66d668.jpg,bache,13,46.7,45.91
+156a570a,Lámpara rota sin reponer,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Calle 5 de Mayo #89, Col. Centro",/images/e0df20d1.jpg,alumbrado,26,280.7,116.01
+b024cb79,Señal de tránsito dañada,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Blvd. Municipio Libre #600, Col. Empleado Federal",NaN,otro,30,4.7,26.41
+67b646f1,Drenaje colapsado con riesgo sanitario,Se requiere intervención inmediata para evitar daños mayores a la infraestructura.,"Calle Tecnológico #100, Col. San Manuel",/images/56487a0d.jpg,emergencia,34,576.0,219.0
+4b33eaff,Alumbrado fuera de servicio 3 semanas,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Calle Tecnológico #100, Col. San Manuel",/images/923d2f3c.jpg,alumbrado,1,280.3,108.39
+593c2686,Grieta estructural en puente peatonal,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Calle 14 Oriente #78, Col. El Carmen",/images/fa9838ca.jpg,emergencia,8,706.1,250.23
+7fcfe722,Rampas para discapacitados bloqueadas,El problema lleva semanas sin atención y representa un riesgo para los transeúntes.,"Blvd. Municipio Libre #600, Col. Empleado Federal",NaN,otro,5,463.0,156.4
+30c03aa8,Lámpara apagada en parque central,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Calle Privada Laureles #12, Col. Anzures",NaN,alumbrado,20,152.8,75.84
+771698ba,Derrumbe de barda sobre banqueta,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Calle Privada Laureles #12, Col. Anzures",/images/5486da42.jpg,emergencia,16,601.2,221.16
+142cff88,Fuga de agua potable en avenida principal,El daño se ha agravado con las recientes lluvias y requiere atención urgente.,"Av. Vicente Suárez #234, Col. Huexotitla",/images/611d8b4d.jpg,emergencia,4,562.6,205.98
+e894bfcd,Fuga de gas en edificio habitacional,El problema lleva semanas sin atención y representa un riesgo para los transeúntes.,"Av. Xonaca #890, Col. Xonaca",NaN,emergencia,39,110.1,80.73
+e9f450d9,Poste a punto de caer sobre auto,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Av. Xonaca #890, Col. Xonaca",NaN,emergencia,16,552.3,206.49
+e1bddb30,Alumbrado sin funcionar en glorieta,La incidencia afecta principalmente a niños y personas de la tercera edad.,"Calle Reforma #34, Col. Analco",NaN,alumbrado,19,78.3,53.19
+fe6c5381,Desperdicios en arroyo,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Blvd. Atlixcáyotl Km 8, Zona Angelópolis",/images/08748aed.jpg,basura,12,55.2,40.16
+865c39c2,Poste dañado por accidente vial,La situación genera malestar entre los comerciantes y residentes del área.,"Av. 20 de Noviembre #300, Centro Histórico",/images/0b2e1fec.jpg,alumbrado,7,573.4,198.12
+a71850fe,Bache sin señalización,"La zona es de alto tráfico peatonal y vehicular, lo que aumenta el riesgo.","Calle Tecnológico #100, Col. San Manuel",NaN,bache,4,364.5,138.55
+21009500,Vandalismo en parada de autobús,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Calle Orquídeas #23, Col. Jardines",/images/d52dac78.jpg,otro,27,691.8,231.64
+ff73eac3,Estacionamiento ilegal en acceso,Vecinos de la colonia han levantado quejas formales sin recibir atención.,"Av. 11 Poniente #560, Col. La Paz",/images/f41280fc.jpg,otro,11,528.5,177.85
+56c4b254,Montículo de cascajo sin retirar,El problema afecta el acceso a servicios públicos esenciales de la zona.,"Calle Fresno #15, Col. El Vergel",/images/f35673fb.jpg,basura,29,313.9,122.87
+da4fceaf,Acumulación frente a mercado,Varios vecinos han reportado la situación sin obtener respuesta de las autoridades.,"Blvd. Norte #450, Fracc. Las Américas",NaN,basura,17,634.8,215.54
